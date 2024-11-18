@@ -7,11 +7,11 @@ function App() {
   return (
     <div>
       {/* practice video */}
-      <p>day one</p>
+   <p>day-1 </p>
       
 
       {/* day-1 */}
-      
+
 
    </div>
   )
